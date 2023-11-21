@@ -1,0 +1,1 @@
+# gd-files-except-for-recources
